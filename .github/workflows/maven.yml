@@ -33,8 +33,3 @@ jobs:
 
 
 
-
-
-      run: java MyProgram
-
-
